@@ -9,11 +9,7 @@ The source is not in this repository; it only hosts releases.
 Get the latest build from the [Releases page](https://github.com/ogl33t/stream-sidekick-v2-releases/releases/latest).
 
 - **Windows:** `Stream-Sidekick-Setup-X.Y.Z.exe`
-- **macOS (Apple silicon):** the `.dmg` or the `.zip`. The app is unsigned, so after copying it to Applications run:
-
-  ```
-  xattr -dr com.apple.quarantine "/Applications/Stream Sidekick.app"
-  ```
+- **macOS:** not published at the moment.
 
 ## Stream Deck plugin
 
@@ -21,4 +17,4 @@ The plugin needs Stream Deck 7.1 or later. Install it from Settings → "Install
 
 ## Updates
 
-Windows checks for updates on launch and installs them on restart. macOS has no auto-update; download the new version from Releases.
+Windows checks for updates on launch and installs them on restart.
